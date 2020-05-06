@@ -1,0 +1,11 @@
+## Interface: 11303
+## Title: HPCustomer
+## Author: Skarrow
+## Version: 2.7.2
+## Notes: Addon that allows user to create Button Profiles, for easy switching between different sets.
+## SavedVariables: HPCustomerDB
+
+HPCustomerDB.lua
+HPCustomer.lua
+HPCustomerGUI.lua
+
